@@ -1,0 +1,50 @@
+.title{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 210px;
+    border: solid black 2px;
+    border-radius: 7px 7px 7px 7px;
+    position: absolute;
+    top: 32%;
+    left: 40%;
+    background-color: #FDEEDC;
+    
+}
+
+
+input[type = button] {
+    background-color: black;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 14px;
+    width: 100%;
+    border-radius: 5px 5px;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.btn{
+    background-color: white;
+    border: solid black 2px;
+    width: 100%;
+    border-radius: 7px;
+}
+
+table {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    background-color: #FDEEDC;
+    padding: 5px 5px;
+    border-radius: 5px 5px;
+}
+
+body {
+    background-color: #9E7676;
+}
+
+
+.btn:hover {
+    background-color:#d9daa5;
+    transition: 0.5s;
+}
+
